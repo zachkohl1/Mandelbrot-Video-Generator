@@ -41,7 +41,7 @@ On most Unix-based systems, these libraries should be available by default. If n
 
 ## License
 
-This program is released under the [MIT License](LICENSE).
+This program is released under the [GNU Public License](LICENSE).
 
 ## Credits
 
